@@ -8,9 +8,8 @@ Follow instruction provided in the "MiniScan_Manual.pdf" file.
 
 
 
-Allen Mouse Common Coordinate Framework (CCF)
+# Allen Mouse Common Coordinate Framework (CCF)
 https://github.com/cortex-lab/allenCCF
-
 See Wang, Ding, Li et al., Cell, 2020 https://doi.org/10.1016/j.cell.2020.04.007
 
 © 2015 Allen Institute for Brain Science. Allen Mouse Brain Atlas (2015) with region annotations (2017). Available from: http://download.alleninstitute.org/informatics-archive/current-release/mouse_ccf/annotation/
