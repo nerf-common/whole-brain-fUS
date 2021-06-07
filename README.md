@@ -1,4 +1,5 @@
 UPDATE JUNE 7 2021 - The registration code was updated for faster and smoother navigation in the graphical interface and to integrate automatically scans acquired in different orientations.
+
 IMPORTANT : New version of the dataset with updated metadata information
 
 Whole-brain functional ultrasound imaging in awake head-fixed mice. Clément Brunner, Micheline Grillet, Alan Urban, Botond Roska, Gabriel Montaldo & Emilie Macé Nature Protocols 2021 https://doi.org/10.1038/s41596-021-00548-8
