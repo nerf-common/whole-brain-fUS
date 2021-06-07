@@ -7,7 +7,7 @@ Download the dataset in the Zenodo repository: ​http://doi.org/10.5281/zenodo.
 
 Follow instruction provided in the "MiniScan_Manual.pdf" file.
 
-Figure_BehindThePaper-01
+![Figure_BehindThePaper-01](https://user-images.githubusercontent.com/80107092/121011041-7365b800-c796-11eb-82fc-78a90e1e2f90.jpg)
 
 Allen Mouse Common Coordinate Framework (CCF)
 
