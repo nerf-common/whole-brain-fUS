@@ -1,11 +1,13 @@
 # whole-brain-fUS
 Whole-brain functional ultrasound imaging in awake head-fixed mice.
 Clément Brunner, Micheline Grillet, Alan Urban, Botond Roska, Gabriel Montaldo & Emilie Macé
+Nature Protocols 2021 
+https://doi.org/10.1038/s41596-021-00548-8
+
 
 Download the dataset in the Zenodo repository: ​http://doi.org/10.5281/zenodo.4382638
 
 Follow instruction provided in the "MiniScan_Manual.pdf" file.
-
 
 
 # Allen Mouse Common Coordinate Framework (CCF)
