@@ -9,7 +9,7 @@ Nature Protocols 2021 https://doi.org/10.1038/s41596-021-00548-8
 Follow instruction provided in the "MiniScan_Manual_v2.0.pdf" file.
 Download the dataset in the Zenodo repository: http://doi.org/10.5281/zenodo.4905862
 
-
+![121011041-7365b800-c796-11eb-82fc-78a90e1e2f90](https://user-images.githubusercontent.com/80107092/122227875-98091080-ceb7-11eb-8704-4bdaf951e823.jpg)
 
 Allen Mouse Common Coordinate Framework (CCF)
 https://github.com/cortex-lab/allenCCF See Wang, Ding, Li et al., Cell, 2020 
